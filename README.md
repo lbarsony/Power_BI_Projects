@@ -24,7 +24,7 @@ Cleaned, shaped and prepared the raw data for analysis by handling blanks, chang
 
 ## Dashboard Overview
 
-### Page 1: High-Leve Market View:
+### Page 1: High-Level Market View:
 
 ![Dashboard Page 1](/Images/Project1Page1.jpg)
 
